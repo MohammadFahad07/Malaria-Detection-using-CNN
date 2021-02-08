@@ -47,3 +47,7 @@ It avoids the problems associated with rapid methods, such as being species-spec
  *  Mohammad Fahad Mojumder
  *  Al Musabbir Rakin
 
+## License & copyright
+
+Licensed under the [MIT license](LICENSE).
+
